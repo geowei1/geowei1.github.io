@@ -2,10 +2,7 @@
 title: Home
 ---
 
-# Institute for Geodesy – Working Group Geoinformation
-
-The working group Geoinformation is part of the Institute for Geodesy at the Graz University of Technology and is doing research in Geographic Information Science and applied Geoinformation.
-*WORK IN PROGReSS*
+# Schorschis page
 
 
 {:.center}
