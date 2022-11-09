@@ -2,10 +2,11 @@
 title: Home
 ---
 
-# Your Lab Slogan
+# GeoGeorg - Having the world in your pocket...
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
+<!-->[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
+Spend less time reinventing the wheel, and more time running your lab.</!-->
+This is my Website, the Website by GeoGeorg. I am focusing on proving Geoinformation to the people that use it most - everyone. Live Laugh Lauch
 
 {%
   include link.html
