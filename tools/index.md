@@ -1,8 +1,8 @@
 ---
-title: Tools
+title: Projects
 nav:
   order: 2
-  tooltip: Software, datasets, and more
+  tooltip: Recent projects of the Research Group
 ---
 
 # <i class="fas fa-tools"></i>Tools
@@ -22,6 +22,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 {% include section.html %}
 
-## More
+<!--## More
 
-{% include list.html component="card" data="tools" filters="group: more" style="small" %}
+#{% include list.html component="card" data="tools" filters="group: more" style="small" %}
+-->
