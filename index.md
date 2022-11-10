@@ -44,7 +44,7 @@ In order to contribute to the scientific field of Geographic Information Science
 
 {% capture text %}
 
-These areas of interest can be of vital interest for a number of application areas 
+These research fields can be of vital interest for a number of application areas, such as
 *	Transport Modeling and Simulation
 *	Forest-based Supply Chain: Modeling, Simulation, Optimization
 *	DSS for Indoor Production Environments
