@@ -17,8 +17,12 @@ title: Home
 
 {% capture text %}
 In order to contribute to the scientific field of Geographic Information Science we focus on
-•	Modeling Indoor Space with focus on Production Environments
-•	Ontologies and Semantics related to Geoinformation
+*	Modeling Indoor Space with focus on Production Environments
+*	Ontologies and Semantics related to Geoinformation
+*	(spatial) Linked (open) Data 
+*	Numerical Methods (Operations Research) in Geography 
+*	Agent-based Modeling 
+*	Geolinguistics
 
 
 {%
