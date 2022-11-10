@@ -1,9 +1,9 @@
-- title: Cool Dataseta
+- title: ABM$ET
   subtitle: a subtitle
   group: featured
   image: images/photo.jpg
   link: /projects/project1
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: A project that deals with the transition from fos energy to rewn energy
   repo: greenelab/lab-website-template
   tags:
     - resource
