@@ -1,6 +1,23 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.5194/ica-abs-5-68-2022
+  title: Towards an intuitive User Interface and Geographic Question Answering for
+    an existing spatial Linked Data Endpoint for Dialect Data
+  authors:
+  - Georg Weinberger
+  - Johannes Scholz
+  - Eveline Wandl-Vogt
+  publisher: Abstracts of the ICA
+  date: '2022-06-03'
+  link: https://doi.org/gq7kfr
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  tags:
+  - Linked Data
+  - Digital Humanities
+  - Dialect
+  - GeoAI
+  _cache: 846709c9330adb5c9063410f9c60b85dc13565ed7a51cfca7c4ed09435217704
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
