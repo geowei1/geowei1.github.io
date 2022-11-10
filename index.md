@@ -24,16 +24,6 @@ In order to contribute to the scientific field of Geographic Information Science
 *	Agent-based Modeling 
 *	Geolinguistics
 
-These areas of interest can be of vital interest for a number of application areas 
-*	Transport Modeling and Simulation
-*	Forest-based Supply Chain: Modeling, Simulation, Optimization
-*	DSS for Indoor Production Environments
-*	Land Use and Land Cover Modeling
-*	Cyberinfrastructuctures and Information sharing 
-*	and many more
-
-
-
 {%
   include link.html
   link="research"
@@ -53,8 +43,14 @@ These areas of interest can be of vital interest for a number of application are
 %}
 
 {% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+These areas of interest can be of vital interest for a number of application areas 
+*	Transport Modeling and Simulation
+*	Forest-based Supply Chain: Modeling, Simulation, Optimization
+*	DSS for Indoor Production Environments
+*	Land Use and Land Cover Modeling
+*	Cyberinfrastructuctures and Information sharing 
+*	and many more
 
 {%
   include link.html
@@ -74,7 +70,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
   flip=true
   text=text
 %}
-
+<!--
 {% capture text %}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
@@ -98,3 +94,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+-->
