@@ -1,12 +1,12 @@
 - title: ABM$ET
-  subtitle: a subtitle
   group: featured
   image: images/photo.jpg
   link: /projects/project1
-  description: A project that deals with the transition from fos energy to rewn energy
+  description: Examine the possibilities of transitioning from fossile energy to renewable energy.
   repo: greenelab/lab-website-template
   tags:
-    - resource
+    - energy
+    - abm
 
 - title: Cool Package
   subtitle: a subtitle
