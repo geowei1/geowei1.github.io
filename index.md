@@ -24,6 +24,15 @@ In order to contribute to the scientific field of Geographic Information Science
 *	Agent-based Modeling 
 *	Geolinguistics
 
+These areas of interest can be of vital interest for a number of application areas 
+*	Transport Modeling and Simulation
+*	Forest-based Supply Chain: Modeling, Simulation, Optimization
+*	DSS for Indoor Production Environments
+*	Land Use and Land Cover Modeling
+*	Cyberinfrastructuctures and Information sharing 
+*	and many more
+
+
 
 {%
   include link.html
