@@ -66,7 +66,7 @@ These areas of interest can be of vital interest for a number of application are
   include feature.html
   image="images/photo.jpg"
   link="resources"
-  title="Our Resources"
+  title="Application Areas"
   flip=true
   text=text
 %}
