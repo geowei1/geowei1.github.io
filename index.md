@@ -37,7 +37,7 @@ In order to contribute to the scientific field of Geographic Information Science
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/osm_graz.png"
   link="research"
   title="Our Research"
   text=text
