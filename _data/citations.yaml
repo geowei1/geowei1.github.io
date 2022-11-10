@@ -9,9 +9,9 @@
   - Johannes Scholz
   - Eveline Wandl-Vogt
   publisher: Abstracts of the ICA
-  date: '2022-06-03'
+  date: '2022-09-14'
   link: https://doi.org/gq7kfr
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  image: images/photo.jpg
   tags:
   - Linked Data
   - Digital Humanities
@@ -21,7 +21,7 @@
   - type: source
   - link: https://github.com/Geoinfo-TUGraz/UI4Dialect
   - text: Source
-  _cache: 3eec3fbd432cae71a852bf60679336a77c31ab37aa38164d490cb834b1a1e696
+  _cache: 2d5ab008fb181f2a62498938ddf2fed0f502cac481cf71e7059fe7cfe17b9470
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
