@@ -16,7 +16,10 @@ title: Home
 # Highlights
 
 {% capture text %}
-Take a look at our research papers.
+In order to contribute to the scientific field of Geographic Information Science we focus on
+•	Modeling Indoor Space with focus on Production Environments
+•	Ontologies and Semantics related to Geoinformation
+
 
 {%
   include link.html
