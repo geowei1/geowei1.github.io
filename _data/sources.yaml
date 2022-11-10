@@ -10,14 +10,7 @@
     - type: source
       link: https://github.com/Geoinfo-TUGraz/UI4Dialect
       text: Source
- 
-- title: A Semantic Web Approach for the Forest-based Supply Chain
-  authors:
-    - Georg Weinberger
-    - Johannes Scholz
-  publisher: AGIT Poster
-  date: 2018-07-01
-  link: https://graz.pure.elsevier.com/en/publications/a-semantic-web-approach-for-the-forest-based-supply-chain
+
   
  <!--
 - id: doi:10.1016/j.csbj.2020.05.017
