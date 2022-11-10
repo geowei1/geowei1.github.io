@@ -55,7 +55,7 @@ These areas of interest can be of vital interest for a number of application are
 {%
   include link.html
   link="tools"
-  text="Browse our tools"
+  text="Browse our projects"
   icon="fas fa-arrow-right"
   flip=true
 %}
