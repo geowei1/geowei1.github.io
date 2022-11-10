@@ -17,7 +17,11 @@
   - Digital Humanities
   - Dialect
   - GeoAI
-  _cache: 846709c9330adb5c9063410f9c60b85dc13565ed7a51cfca7c4ed09435217704
+  extra-links:
+  - type: source
+  - link: https://github.com/Geoinfo-TUGraz/UI4Dialect
+  - text: Source
+  _cache: 3eec3fbd432cae71a852bf60679336a77c31ab37aa38164d490cb834b1a1e696
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
