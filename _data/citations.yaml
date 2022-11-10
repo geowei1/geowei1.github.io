@@ -19,9 +19,9 @@
   - GeoAI
   extra-links:
   - type: source
-  - link: https://github.com/Geoinfo-TUGraz/UI4Dialect
-  - text: Source
-  _cache: 2d5ab008fb181f2a62498938ddf2fed0f502cac481cf71e7059fe7cfe17b9470
+    link: https://github.com/Geoinfo-TUGraz/UI4Dialect
+    text: Source
+  _cache: 61d12dd31ca8356cfa2d43a677c03252a453d9826fae9d58f9d3b3602a8c8763
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
